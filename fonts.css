@@ -1,4 +1,7 @@
-/* ========== Modam (Persian) ========== */
+/* ===================== */
+/* Persian – Modam */
+/* ===================== */
+
 @font-face{
   font-family:"Modam";
   src:url("https://cdn.jsdelivr.net/gh/kahroba1enerjan-netizen/Hamishon-font@main/Modam-Light.ttf") format("truetype");
@@ -6,6 +9,7 @@
   font-style:normal;
   font-display:swap;
 }
+
 @font-face{
   font-family:"Modam";
   src:url("https://cdn.jsdelivr.net/gh/kahroba1enerjan-netizen/Hamishon-font@main/Modam-Regular.ttf") format("truetype");
@@ -13,6 +17,7 @@
   font-style:normal;
   font-display:swap;
 }
+
 @font-face{
   font-family:"Modam";
   src:url("https://cdn.jsdelivr.net/gh/kahroba1enerjan-netizen/Hamishon-font@main/Modam-Black.ttf") format("truetype");
@@ -21,7 +26,11 @@
   font-display:swap;
 }
 
-/* ========== Helvetica Neue (Latin) ========== */
+
+/* ===================== */
+/* English – Helvetica Neue */
+/* ===================== */
+
 @font-face{
   font-family:"Helvetica Neue Custom";
   src:url("https://cdn.jsdelivr.net/gh/kahroba1enerjan-netizen/Hamishon-font@main/HelveticaNeueUltraLight.otf") format("opentype");
@@ -29,6 +38,7 @@
   font-style:normal;
   font-display:swap;
 }
+
 @font-face{
   font-family:"Helvetica Neue Custom";
   src:url("https://cdn.jsdelivr.net/gh/kahroba1enerjan-netizen/Hamishon-font@main/HelveticaNeueLight.otf") format("opentype");
@@ -36,6 +46,7 @@
   font-style:normal;
   font-display:swap;
 }
+
 @font-face{
   font-family:"Helvetica Neue Custom";
   src:url("https://cdn.jsdelivr.net/gh/kahroba1enerjan-netizen/Hamishon-font@main/HelveticaNeueBold.otf") format("opentype");
@@ -43,6 +54,7 @@
   font-style:normal;
   font-display:swap;
 }
+
 @font-face{
   font-family:"Helvetica Neue Custom";
   src:url("https://cdn.jsdelivr.net/gh/kahroba1enerjan-netizen/Hamishon-font@main/HelveticaNeueBlack.otf") format("opentype");
